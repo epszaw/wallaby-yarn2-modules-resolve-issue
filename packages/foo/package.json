@@ -1,0 +1,20 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "test": "nyc ts-node --project ./test/tsconfig.json ./test/runner.ts"
+  },
+  "devDependencies": {
+    "@types/sinon": "^10.0.19",
+    "expect": "^29.7.0",
+    "fast-glob": "^3.3.1",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "sinon": "^16.1.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}

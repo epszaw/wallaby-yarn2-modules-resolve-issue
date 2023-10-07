@@ -1,0 +1,10 @@
+{
+  "name": "wallaby-yarn2-modules-resolve-issue",
+  "packageManager": "yarn@3.6.4",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

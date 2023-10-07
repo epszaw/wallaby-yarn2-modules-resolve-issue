@@ -1,0 +1,1 @@
+{"processes":{"3a8a068a-9344-48b1-80f0-c89a79dd7f77":{"parent":null,"children":[]}},"files":{"/Users/epszaw/Code/Test/wallaby-yarn2-modules-resolve-issue/packages/foo/src/test/foo.spec.ts":["3a8a068a-9344-48b1-80f0-c89a79dd7f77"],"/Users/epszaw/Code/Test/wallaby-yarn2-modules-resolve-issue/packages/foo/src/foo.ts":["3a8a068a-9344-48b1-80f0-c89a79dd7f77"]},"externalIds":{}}
